@@ -1,0 +1,7 @@
+spring.application.name=santander-dev-week
+spring.profiles.active=dev
+PGHOST=host.exemplo
+PGPORT=5432.exemplo
+PGDATABASE=Base.exemplo
+PGUSER=postgres.exemplo
+PGPASSWORD=dktulJPuUnyQTsn.exemplo
